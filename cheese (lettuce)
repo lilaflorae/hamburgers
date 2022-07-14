@@ -1,5 +1,5 @@
 done = false
-local hitlist = {'Schlafwandeln'}
+local hitlist = {'PenguiniteR'}
 spawn(function()
 	repeat
 	for i,v in pairs(game.Players:GetPlayers()) do
